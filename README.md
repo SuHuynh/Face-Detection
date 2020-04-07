@@ -1,5 +1,5 @@
 # Face Detection
-This repo is for detect human face
+This repo is implemented to detect human faces
 
 ## Data preparation
 - Using the WIDER FACE dataset. This contains 32 203  images with 393 703  face bounding boxes
